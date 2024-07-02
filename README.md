@@ -1,2 +1,2 @@
 # Games
-Repo for different game projects.
+Repo for game projects.
